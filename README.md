@@ -83,7 +83,6 @@
 > A free, once–weekly e-mail round-up of PostgreSQL news and articles.
 
 
-
 - [Web Operations Weekly](http://webopsweekly.com/)
 > A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 
@@ -91,8 +90,14 @@
 > Docker Weekly Archives.
 
 - [Webtools Weekly](http://webtoolsweekly.com/)
-> Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
+> A once a week email with no spam, no rambling. Just pure awesome links to the best news and articles to hit the interweb during the week.
 
+
+- [Web Dev Weekly](http://www.webdevweekly.com/)
+> A weekly email of great links to some fantastic industry content.
+
+- [Web Design Weekly](http://web-design-weekly.com/)
+> A forthcoming weekly round-up of Bitcoin and cryptocurrency news and articles.
 
 - [Bitcoin Weekly](http://bitcoinweekly.com/)
 > A forthcoming weekly round-up of Bitcoin and cryptocurrency news and articles.
@@ -100,6 +105,9 @@
 
 - [奇舞周刊](http://www.75team.com/weekly/)
 > 领略前端技术 阅读奇舞周刊.
+
+- [码农周刊](http://weekly.manong.io/)
+> 码农周刊是一份专为程序员打造的IT技术周刊.
 
 - [知乎周刊](http://zhuanlan.zhihu.com/Weekly)
 > 《知乎周刊》，在周末下午陪你喝一壶茶，或者在几个工作日的早上，陪你度过摇晃的无聊时光.
