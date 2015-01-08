@@ -5,7 +5,9 @@
 ## Daily
 
 - [DailyJS](http://dailyjs.com/)
->A JavaScript Blog.
+> A JavaScript Blog.
+
+- [知乎日报](http://daily.zhihu.com/)
 
 ## Weekly
 
@@ -17,7 +19,6 @@
 
 - [JavaScript Weekly](http://javascriptweekly.com/)
 > A free, once–weekly e-mail round-up of JavaScript news and articles.
-
 
 - [Backbone Weekly](http://backboneweekly.com/)
 > The latest Backbone.js news, tips & code delivered directly to your inbox.
@@ -95,6 +96,22 @@
 
 - [Bitcoin Weekly](http://bitcoinweekly.com/)
 > A forthcoming weekly round-up of Bitcoin and cryptocurrency news and articles.
+
+
+- [奇舞周刊](http://www.75team.com/weekly/)
+> 领略前端技术 阅读奇舞周刊.
+
+- [知乎周刊](http://zhuanlan.zhihu.com/Weekly)
+> 《知乎周刊》，在周末下午陪你喝一壶茶，或者在几个工作日的早上，陪你度过摇晃的无聊时光.
+
+- [SegmentFault Weekly](http://weekly.segmentfault.com/)
+> SegmentFault每周精选.
+
+- [编程狂人](http://www.tuicool.com/mags)
+> 《编程狂人》周刊是专为IT人打造的行业技术周刊。 我们利用技术挖掘出那些高质量的文章，并通过人工加以筛选整理出来.
+
+- [设计匠艺](http://www.tuicool.com/mags/design)
+> 《设计匠艺》是一本电子版的有关设计方面的周刊.
 
 
 
