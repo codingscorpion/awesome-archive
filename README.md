@@ -136,3 +136,6 @@
 
 - [Codrops Collective](http://tympanus.net/codrops/collective/)
 > The Collective features the latest news and resources from the web design & web development community. 
+
+- [Line25](http://line25.com/)
+> A place to share his web design ideas and inspiration through articles, tutorials and examples of stunning site designs. 
